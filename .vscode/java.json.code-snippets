@@ -1,0 +1,21 @@
+
+
+{
+	"Java Main Method with Scanner": {
+	  "prefix": "maininput",
+	  "body": [
+		"import java.util.Scanner;",
+		"",
+		"public class ${1:ClassName} {",
+		"    public static void main(String[] args) {",
+		"        // To take the input",
+		"        Scanner sc = new Scanner(System.in);",
+		"        ",
+		"        // Your code here",
+		"    }",
+		"}"
+	  ],
+	  "description": "Insert main method with Scanner for input"
+	}
+  }
+  
